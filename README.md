@@ -1,6 +1,6 @@
 Hi 👋 My name is Cyril Muchemi
 
-I'm a Fullstack developer using React, Node.js and Ruby.
+I'm a Fullstack developer using Vue & Laravel.
 
 🌍  I'm based in Nairobi* ✉️ 
 
