@@ -35,7 +35,7 @@
 </p>
 <table>
 	<tr>
-		<th><h1>Projects We develop</h1></th>
+		<th><h1>Primary Tech Stack</h1></th>
 		<th><h1>Deployment Support</h1></th>
 		<th><h1>API Integrations</h1></th>
 	</tr>
