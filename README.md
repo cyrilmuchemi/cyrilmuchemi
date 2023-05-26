@@ -11,7 +11,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm <b>Cyril</b>, Fullstack developer from <img src="https://image.flaticon.com/icons/png/128/256/256672.png" width="13"/> <b>Nairobi, Kenya </b>.</p>
+<p>Welcome to my page! </br> I'm <b>Cyril</b>, Fullstack developer from <b>Nairobi, Kenya </b>.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
